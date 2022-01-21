@@ -7,6 +7,8 @@ git clone https://github.com/luizfelipebraga/teste-front-end.git
 
 cd teste-front-end
 
+cd econverse
+
 git checkout luizfelipe-dev
 
 yarn install || npm install
