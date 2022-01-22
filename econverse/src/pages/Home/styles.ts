@@ -7,12 +7,3 @@ export const Container = styled.section`
   margin-top: 2rem;
 `;
 
-export const CategorySection = styled.div`
-  display: flex;
-  justify-content: center;
-  gap: 5rem;
-  align-items: center;
-
-  padding: 1.5rem;
-`;
-
