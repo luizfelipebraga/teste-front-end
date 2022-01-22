@@ -9,8 +9,6 @@ cd teste-front-end
 
 cd econverse
 
-git checkout luizfelipe-dev
-
 yarn install || npm install
 
 yarn start || npm start
